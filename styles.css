@@ -1,7 +1,6 @@
 /* styles.css */
 
-div {
-    color: black
-    background-color: blue
-    
+body {
+    background:aqua;
+    font: optional;
 }
